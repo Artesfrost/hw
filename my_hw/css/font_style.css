@@ -1,0 +1,38 @@
+
+h1,h3,h2,p,blockquote,a {
+    font-family: Pacifico; 
+    font-style: normal; 
+    font-variant: normal;
+    color: #071827;
+}  
+h1,h3 {
+    font-weight: 700; 
+}
+h1 { 
+    font-size: 24px; 
+    line-height: 26.4px; 
+}
+h3 { 
+    font-size: 14px; 
+    line-height: 15.4px; 
+    color: #617380;
+}
+h2{
+    font-size: 20px; 
+    line-height: 15.4px;
+    padding: 5px;
+}
+p,a,blockquote {
+    font-weight: 400; 
+}
+p { 
+    font-size: 14px; 
+    line-height: 20px; 
+} 
+blockquote { 
+    font-size: 21px; 
+    line-height: 30px; } 
+a { 
+    font-size: 14px; 
+    line-height: 18.5714px; 
+}
