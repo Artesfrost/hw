@@ -1,5 +1,5 @@
 
-h1,h3,h2,p,blockquote,a {
+h1,h3,h2,h5,p,blockquote,a,label {
     font-family: Pacifico; 
     font-style: normal; 
     font-variant: normal;
@@ -22,10 +22,15 @@ h2{
     line-height: 15.4px;
     padding: 5px;
 }
+h5{
+    font-size: 20px; 
+    line-height: 15.4px;
+}
 p,a,blockquote {
     font-weight: 400; 
 }
 p { 
+    margin: 5px;
     font-size: 14px; 
     line-height: 20px; 
 } 
@@ -35,4 +40,7 @@ blockquote {
 a { 
     font-size: 14px; 
     line-height: 18.5714px; 
+}
+label {
+    font-size: 20px;
 }
